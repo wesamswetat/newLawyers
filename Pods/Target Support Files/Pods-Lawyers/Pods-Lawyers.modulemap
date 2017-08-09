@@ -1,0 +1,6 @@
+framework module Pods_Lawyers {
+  umbrella header "Pods-Lawyers-umbrella.h"
+
+  export *
+  module * { export * }
+}
